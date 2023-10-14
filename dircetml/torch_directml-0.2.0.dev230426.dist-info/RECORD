@@ -1,0 +1,16 @@
+torch_directml-0.2.0.dev230426.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+torch_directml-0.2.0.dev230426.dist-info/LICENSE,sha256=3qkmU0GCkALiwjpzcjk-su1uJghftiPzikugr4M_MKY,1183
+torch_directml-0.2.0.dev230426.dist-info/METADATA,sha256=0Y-UonJnhwkmCXn6woNLbX-rYlVwiLvnQ_DRTvSsF2A,6157
+torch_directml-0.2.0.dev230426.dist-info/NOTICE,sha256=4uO665QNJMTrFu7L4zL6lMvFQtAMTDbS9GYOal1F3mY,52853
+torch_directml-0.2.0.dev230426.dist-info/RECORD,,
+torch_directml-0.2.0.dev230426.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+torch_directml-0.2.0.dev230426.dist-info/WHEEL,sha256=rneS2j8QNmAwdNKHN86s6-qP7AMcWZgqiEoH3bdbh_Y,102
+torch_directml-0.2.0.dev230426.dist-info/top_level.txt,sha256=iLaufYstlPC5Cqd-V4EDVikvsxUsaie800X92i8SQ1k,76
+torch_directml/DirectML.dll,sha256=lQv0m5qm8tkjBkPTgx7YyqcrwbwI-oFj_qm2Nr3SGhw,11681696
+torch_directml/__init__.py,sha256=4Os9AFoEAHfHNaKGgPy-ENnReRjCYQezn-msfKzYSAE,488
+torch_directml/__pycache__/__init__.cpython-310.pyc,,
+torch_directml/__pycache__/device.cpython-310.pyc,,
+torch_directml/csrc/__pycache__/auto_gen_yaml.cpython-310.pyc,,
+torch_directml/csrc/auto_gen_yaml.py,sha256=zzZ65aWUZkahxPOSwCslCjZkv63Jretlvs-mzA5jDKM,9084
+torch_directml/device.py,sha256=t8o-awI41LDX2WctA1dQzIWxx9JmC7pRHNPnDIN6JXw,1818
+torch_directml_native.cp310-win_amd64.pyd,sha256=JnV2CyK3qgxD21FFdmJSc1SDcM06S1qy0UktizyyS38,1469952
